@@ -1,0 +1,5 @@
+langchain
+langchain-core
+langchain-google-genai   # for Google Gemini (optional, needs GOOGLE_API_KEY)
+langchain-openai         # for OpenAI GPT-4o (optional, needs OPENAI_API_KEY)
+langchain-anthropic      # for Claude (optional, needs ANTHROPIC_API_KEY)
