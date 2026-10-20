@@ -1,3 +1,4 @@
+# Dependencies for WeatherDetection LangChain Agent — by Sandeep
 langchain
 langchain-core
 langchain-google-genai   # for Google Gemini (optional, needs GOOGLE_API_KEY)
